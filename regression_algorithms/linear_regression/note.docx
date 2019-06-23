@@ -1,0 +1,3 @@
+Linear regression là một thuật toán Supervise learning cơ bản và đơn giản nhất của Machine learning.
+Cơ chế của thuật toán là dựa vào công thức hồi quy tuyến tính có dạng phương trình: y = ax + b. 
+Khi có tập X và y, hồi quy ta được hệ số  của a và b, từ đó suy ra dạng phương trình cần mô hình.
